@@ -1,0 +1,50 @@
+.productdata{
+    width:50%;
+    
+}
+.producttitle{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 48px;
+    font-weight: 600;
+    margin-top:0;
+    margin-bottom:16px;
+}
+.prodescrip{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    font-weight: 200;
+    margin-top:0;
+    margin-bottom:16px;  
+}
+.red{
+    width:100%;
+    max-width: 80px;
+    border:2px solid transparent;
+    border-radius: 5px;
+    margin:4px;
+}
+.SelectedProductImage{
+    border:2px solid teal;
+    border-radius: 5px;
+    
+}
+
+.time{
+    width:100px;
+    margin:5px;
+    padding:10px;
+    border-radius: 5px;
+background-color:lightgray;
+}
+
+.selectbutton{
+background-color: slategrey;
+}
+.buy{
+    background-color: rgb(144, 197, 250);
+    padding:5px;
+    margin:10px;
+    font-size:20px;
+    font-weight: 700;
+    border-radius: 5px;
+}
